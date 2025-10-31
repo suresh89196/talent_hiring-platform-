@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+DEPLOYMENT.md
+DEVELOPMENT.md
+node_modules
+.next
+.env.local
+.env.*.local
+pnpm-lock.yaml
+public/placeholder*
